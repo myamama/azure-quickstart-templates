@@ -76,7 +76,7 @@
         },
         "IoTsku_name": {
             "type": "string",
-            "defaultValue": "F1",
+            "defaultValue": "S1",
             "metadata": {
                 "description": "The SKU for the IoT hub to use"
             }
@@ -90,7 +90,7 @@
         },
         "IoTsku_partitions": {
             "type": "string",
-            "defaultValue": "2",
+            "defaultValue": "4",
             "metadata": {
                 "description": "This is linked to the SKU"
             }
